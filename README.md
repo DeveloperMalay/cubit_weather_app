@@ -6,7 +6,7 @@ A new Flutter project using cubit and bloc.
 
 In this project you can learn about cubit,streamsubscription,bloc and bloc lisener
 
-packaages we were using in this project:
+packages we were using in this project:
                                         1.flutter_bloc
                                         2.equatable
                                         3.http
