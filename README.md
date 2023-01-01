@@ -4,9 +4,13 @@ A new Flutter project using cubit and bloc.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project you can learn about cubit,streamsubscription,bloc and bloc lisener
 
-A few resources to get you started if this is your first Flutter project:
+packaages we were using in this project:
+                                        1.flutter_bloc
+                                        2.equatable
+                                        3.http
+                                        
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
